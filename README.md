@@ -1,4 +1,3 @@
-<img src="https://res.cloudinary.com/dh322c4tf/image/upload/v1706791330/portfolio-images/Software_Developer_jbi4ht.png" alt="banner"/>
 
 <h1 align="center">Hi 👋, I'm Abhijeet Koshti</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
